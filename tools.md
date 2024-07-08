@@ -5,3 +5,4 @@
 * [Developer Certificate of Origin (DCO)](https://probot.github.io/apps/dco/)
 * [Zapier](https://zapier.com/)
 * [Pabbly](https://www.pabbly.com/)
+* [IFTTT](https://ifttt.com/)
