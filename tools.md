@@ -6,3 +6,4 @@
 * [Zapier](https://zapier.com/)
 * [Pabbly](https://www.pabbly.com/)
 * [IFTTT](https://ifttt.com/)
+* [n8n](https://n8n.io/)
