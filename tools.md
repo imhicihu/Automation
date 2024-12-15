@@ -13,11 +13,11 @@
 * [UI Vision](https://ui.vision/): automatize browser actions
 
 ### Github
-https://github.com/openaps/docs/blob/master/docs/docs/Customize-Iterate/ifttt-integration.md
+* https://github.com/openaps/docs/blob/master/docs/docs/Customize-Iterate/ifttt-integration.md
 
 ### Links to review
-https://www.integromat.com/en/integrations/bitbucket
-https://www.otixo.com/
+* https://www.integromat.com/en/integrations/bitbucket
+* https://www.otixo.com/
 
 ### Insights
-https://www.wired.com/story/soghoian-automation/
+* https://www.wired.com/story/soghoian-automation/
