@@ -11,6 +11,8 @@
 
 ### Apps
 * [UI Vision](https://ui.vision/): automatize browser actions
+* [Espanso](https://espanso.org/): automatic text replacement
+* [Automa](https://www.automa.site/): Automate your browser by connecting blocks
 
 ### Github
 * https://github.com/openaps/docs/blob/master/docs/docs/Customize-Iterate/ifttt-integration.md
