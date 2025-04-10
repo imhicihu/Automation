@@ -9,10 +9,11 @@ Covers topics related to security, coding conventions, and project management
 ### Technology Stack
 The project utilizes a variety of automation tools and technologies, including:
 
-  Keyboard Maestro
-  Automator
-  Espanso
-  Shell scripts
-  Markdown documentation
+* Keyboard Maestro
+* Automator
+* Espanso
+* Shell scripts
+* Markdown documentation
+
 ### License
 The project is licensed under the MIT License, which allows for free use, modification, and distribution of the code.
