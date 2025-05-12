@@ -34,6 +34,15 @@ matches:
         params:
          format: "el %d/%m/%Y a las %H:%M:%S"
 
+  # Print the current timestamp with date included
+  - trigger: ":up"
+    replace: "{{time}}"
+    vars:
+      - name: time
+        type: date
+        params:
+         format: "Updated on %d/%m/%Y, %H:%M:%S"
+
   # Overcome IMHICIHU
   - trigger: ":ic"
     label: "IMHICIHU"
