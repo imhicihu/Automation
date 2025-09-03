@@ -19,7 +19,7 @@ The project utilizes a variety of automation tools and technologies, including:
 
 * Keyboard Maestro
 * Automator
-* Espanso
+* [Espanso](https://espanso.org/)
 * Shell scripts
 * Markdown documentation
 
