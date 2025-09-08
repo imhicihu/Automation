@@ -17,11 +17,12 @@ Covers topics related to security, coding conventions, and project management
 ### Technology Stack
 The project utilizes a variety of automation tools and technologies, including:
 
-* Keyboard Maestro
-* Automator
+* [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
+* [Automator](https://support.apple.com/guide/automator/welcome/mac)
 * [Espanso](https://espanso.org/)
+* [dotfiles](https://github.com/imhicihu/dotfiles)
 * Shell scripts
-* Markdown documentation
+* Markdown automations
 
 ### License
 The project is licensed under the MIT License, which allows for free use, modification, and distribution of the code.
