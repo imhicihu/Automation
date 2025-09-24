@@ -23,6 +23,7 @@ The project utilizes a variety of automation tools and technologies, including:
 * [dotfiles](https://github.com/imhicihu/dotfiles)
 * Shell scripts
 * Markdown automations
+* [UTM](https://mac.getutm.app/) #virtualization
 
 ### License
 The project is licensed under the MIT License, which allows for free use, modification, and distribution of the code.
