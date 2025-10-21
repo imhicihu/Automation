@@ -24,6 +24,7 @@ The project utilizes a variety of automation tools and technologies, including:
 * Shell scripts
 * Markdown automations
 * [UTM](https://mac.getutm.app/) #virtualization
+* [vimium-C](https://github.com/gdh1995/vimium-c)
 
 ### License
 The project is licensed under the MIT License, which allows for free use, modification, and distribution of the code.
