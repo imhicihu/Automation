@@ -1,3 +1,4 @@
+### Checklist
 * Launch UTM
 * click `Create a New virtual Machine`
 * click `Virtualize`
