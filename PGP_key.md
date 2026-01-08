@@ -57,4 +57,5 @@ pnj6V2/2/DGpbH8ua863P9aJ
 ```
 
 > [!TIP]
+> [URL Public key](https://keybase.io/imhicihu/pgp_keys.asc) |
 > [Checksum on mac environment](https://gist.github.com/imhicihu/0c4d4dba1b73df41af1066253c5d4c3d)
