@@ -1,0 +1,19 @@
+{
+	"name": "Vimium C",
+	"@time": "1/13/2026, 5:00:58 PM",
+	"time": 1768334458176,
+	"environment": {
+		"extension": "2.12.2",
+		"platform": "mac",
+		"chromium": 143
+	},
+	"userDefinedCss": [
+		"span.vimium-hint {",
+		"  font-size: 20px !important; /* Make link hints larger */",
+		"  color: #fff !important;",
+		"  background-color: #d00 !important;",
+		"}",
+		""
+	],
+	"vimSync": true
+}
