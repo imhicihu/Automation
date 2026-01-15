@@ -16,17 +16,16 @@
 				<array>
 					<dict>
 						<key>Action</key>
-						<string>Copy</string>
+						<string>DisplayBriefly</string>
 						<key>ActionUID</key>
-						<integer>99876196</integer>
+						<integer>99876775</integer>
 						<key>IsActive</key>
 						<false/>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
-						<string>CutCopyPaste</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>Previamente copiar el texto (Command + c) ya seleccionado
+Lanzar DevToys (-&gt; https://devtoys.app/download) y elegir -&gt; Text inspector</string>
 					</dict>
 					<dict>
 						<key>ActionUID</key>
@@ -326,6 +325,8 @@
 						</data>
 						<key>IsActive</key>
 						<false/>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>MouseMoveAndClick</string>
 						<key>Modifiers</key>
@@ -358,6 +359,8 @@
 						<key>Command</key>
 						<string>WaitForComplete</string>
 						<key>IsActive</key>
+						<false/>
+						<key>IsDisclosed</key>
 						<false/>
 						<key>MacroActionType</key>
 						<string>SafariControl</string>
@@ -477,6 +480,8 @@
 						KQAA/df///u3///9pgAAA9oAAMD2
 						</data>
 						<key>IsActive</key>
+						<false/>
+						<key>IsDisclosed</key>
 						<false/>
 						<key>MacroActionType</key>
 						<string>MouseMoveAndClick</string>
@@ -727,7 +732,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-GenericApplication-/Applications/coding/DevToys.app</string>
 				<key>ModificationDate</key>
-				<real>788805630.092363</real>
+				<real>790180581.77320194</real>
 				<key>Name</key>
 				<string>Convertir MAYUSCULAS a Mayúsculas (Apellidos)</string>
 				<key>Triggers</key>
@@ -736,11 +741,11 @@
 						<key>FireType</key>
 						<string>Pressed</string>
 						<key>KeyCode</key>
-						<integer>20</integer>
+						<integer>21</integer>
 						<key>MacroTriggerType</key>
 						<string>HotKey</string>
 						<key>Modifiers</key>
-						<integer>6912</integer>
+						<integer>256</integer>
 					</dict>
 				</array>
 				<key>UID</key>
