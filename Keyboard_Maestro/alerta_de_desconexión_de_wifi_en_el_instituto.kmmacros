@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>776096464.79611504</real>
+		<key>CustomIconData</key>
+		<string>KMEP-Burning</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>99878387</integer>
+						<key>MacroActionType</key>
+						<string>Alert</string>
+						<key>SoundPath</key>
+						<string>/System/Library/Sounds/Basso.aiff</string>
+						<key>Text</key>
+						<string>La red Imhicihu 2002 A_5G no está funcionando</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>Title</key>
+						<string>La red Imhicihu 2002 A_5G no está funcionando</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>790184398.59117198</real>
+				<key>CustomIconData</key>
+				<string>KMEP-Sound</string>
+				<key>ModificationDate</key>
+				<real>790185644.00966799</real>
+				<key>Name</key>
+				<string>Alerta de desconexión de wifi en el instituto</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>Connected</key>
+						<false/>
+						<key>MacroTriggerType</key>
+						<string>WirelessNetwork</string>
+						<key>MatchType</key>
+						<string>NameContains</string>
+						<key>Name</key>
+						<string>Imhicihu 2022 A_5G</string>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>87059A84-D2F6-443B-8F0B-0EF942F88623</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>My macros</string>
+		<key>ToggleMacroUID</key>
+		<string>AC19AA5C-FA62-441E-B9E9-BC9A3E27EF0F</string>
+		<key>UID</key>
+		<string>7D267D39-BB22-422D-B1BC-9FE0FA8A2AF9</string>
+	</dict>
+</array>
+</plist>
