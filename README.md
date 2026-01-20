@@ -30,4 +30,4 @@ The project utilizes a variety of automation tools and technologies, including:
 | ![dot files](images/dot_files@0.5x.jpg) | [.dot files](https://github.com/imhicihu/dotfiles) |
 
 ### License
-The project is licensed under the MIT License, which allows for free use, modification, and distribution of the code
+The project is licensed under the ![](images/MIT-license-green.png), which allows for free use, modification, and distribution of the code
