@@ -17,26 +17,15 @@ Covers topics related to security, coding conventions, and project management
 ### Technology Stack
 The project utilizes a variety of automation tools and technologies, including:
 
-| dd | aa |
+| Tool | Code |
 |:--|:--|
-| ![shell](images/shell.svg) | shell scrip |
-| ![markdown](images/Markdown-mark@0.5x.jpg) | Markdown automations |
+| ![shell](images/shell.svg) | [shell](Homebrew_NPM) |
+| ![markdown](images/leader_key.png) | [Leader Key for the mac](Leader_Key_for_the_mac) |
 | ![automator](images/Automator@0.5x.jpg) | [Apple Automator](MacOSX_Automator) |
 | ![espanso](images/espanso@0.5x.jpg) | [Espanso](espanso) |
-| ![cron jobs](images/1_ukNvgqV-HTHTebPHZMFNgg@0.5x.jpg) | [Cron jobs](Cron_jobs) |
-| ![dot files](images/dot_files.png) | [dotfiles](https://github.com/imhicihu/dotfiles) |
-| ![UTM](images/utm.png) | [UTM]([espanso](https://github.com/imhicihu/Automation/tree/master/Virtualization)) |
-| ![shell](images/espanso@0.5x.jpg) | [Espanso](espanso) |
-| dd | dd |
-
-* [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
-* [Automator](https://support.apple.com/guide/automator/welcome/mac)
-* [Espanso](https://espanso.org/)
-* 
-* 
-* 
-* [UTM](https://mac.getutm.app/) #virtualization
-* [vimium-C](https://github.com/gdh1995/vimium-c)
+| ![shell](images/1_ukNvgqV-HTHTebPHZMFNgg@0.5x.jpg) | [Cron jobs](Cron_jobs) |
+| ![Apple Shortcuts](images/logo_shortcuts.png) | [Apple Shortcuts](https://github.com/imhicihu/shortcuts)) |
+| ![vimium](images/vimium.png) | [Vimium C](Vimium-C) |
 
 ### License
 The project is licensed under the MIT License, which allows for free use, modification, and distribution of the code
