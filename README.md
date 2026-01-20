@@ -1,4 +1,6 @@
-![header](images/DTirB7snQeugyrx-wmJWIQ.webp)
+<p align="center">
+  <img src="images/DTirB7snQeugyrx-wmJWIQ.webp?raw=true" alt="Logotipo de Automation"/>
+</p>
 
 ---
 
