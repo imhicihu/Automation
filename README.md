@@ -19,7 +19,7 @@ The project utilizes a variety of automation tools and technologies, including:
 
 | Tool | Code |
 |:--|:--|
-| ![shell](images/shell.svg) | [shell](Homebrew_NPM) |
+| ![shell](images/shell@0.5x@0.5x.jpg) | [shell](Homebrew_NPM) |
 | ![leader key for the mac](images/leader_key@0.5x.jpg) | [Leader Key for the mac](Leader_Key_for_the_mac) |
 | ![automator](images/Automator@0.5x.jpg) | [Apple Automator](MacOSX_Automator) |
 | ![espanso](images/espanso@0.5x.jpg) | [Espanso](espanso) |
