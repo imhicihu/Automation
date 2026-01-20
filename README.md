@@ -25,7 +25,7 @@ The project utilizes a variety of automation tools and technologies, including:
 | ![espanso](images/espanso@0.5x.jpg) | [Espanso](espanso) |
 | ![cron jobs](images/1_ukNvgqV-HTHTebPHZMFNgg@0.5x.jpg) | [Cron jobs](Cron_jobs) |
 | ![Apple Shortcuts](images/logo_shortcuts.png) | [Apple Shortcuts](https://github.com/imhicihu/shortcuts)) |
-| ![vimium](images/vimium.png) | [Vimium C](Vimium-C) |
+| ![vimium](images/vimium@0.5x.jpg) | [Vimium C](Vimium-C) |
 | ![UTM](images/utm@0.5x.jpg) | [UTM](Virtualization/utm_first_steps_installation.md) |
 | ![dot files](images/dot_files@0.5x.jpg) | [dpt files](https://github.com/imhicihu/dotfiles) |
 
