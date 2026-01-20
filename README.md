@@ -17,12 +17,24 @@ Covers topics related to security, coding conventions, and project management
 ### Technology Stack
 The project utilizes a variety of automation tools and technologies, including:
 
+| dd | aa |
+|:--|:--|
+| ![shell](images/shell.svg) | shell scrip |
+| ![markdown](images/Markdown-mark@0.5x.jpg) | Markdown automations |
+| ![automator](images/Automator@0.5x.jpg) | [Apple Automator](MacOSX_Automator) |
+| ![espanso](images/espanso@0.5x.jpg) | [Espanso](espanso) |
+| ![shell](images/1_ukNvgqV-HTHTebPHZMFNgg@0.5x.jpg) | [Cron jobs](Cron_jobs) |
+| ![shell](images/espanso@0.5x.jpg) | [Espanso](espanso) |
+| ![shell](images/espanso@0.5x.jpg) | [Espanso](espanso) |
+| ![shell](images/espanso@0.5x.jpg) | [Espanso](espanso) |
+| dd | dd |
+
 * [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 * [Automator](https://support.apple.com/guide/automator/welcome/mac)
 * [Espanso](https://espanso.org/)
 * [dotfiles](https://github.com/imhicihu/dotfiles)
-* Shell scripts
-* Markdown automations
+* 
+* 
 * [UTM](https://mac.getutm.app/) #virtualization
 * [vimium-C](https://github.com/gdh1995/vimium-c)
 
