@@ -27,7 +27,7 @@ The project utilizes a variety of automation tools and technologies, including:
 | ![Apple Shortcuts](images/logo_shortcuts@0.5x.jpg) | [Apple Shortcuts](https://github.com/imhicihu/shortcuts) |
 | ![vimium](images/vimium@0.5x.jpg) | [Vimium C](Vimium-C) |
 | ![UTM](images/utm@0.5x.jpg) | [UTM](Virtualization/utm_first_steps_installation.md) |
-| ![dot files](images/dot_files@0.5x.jpg) | [dpt files](https://github.com/imhicihu/dotfiles) |
+| ![dot files](images/dot_files@0.5x.jpg) | [.dot files](https://github.com/imhicihu/dotfiles) |
 
 ### License
 The project is licensed under the MIT License, which allows for free use, modification, and distribution of the code
