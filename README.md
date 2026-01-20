@@ -22,7 +22,7 @@ The project utilizes a variety of automation tools and technologies, including:
 | ![shell](images/shell@0.5x@0.5x.jpg) | [shell](Homebrew_NPM) |
 | ![leader key for the mac](images/leader_key@0.5x.jpg) | [Leader Key for the mac](Leader_Key_for_the_mac) |
 | ![automator](images/Automator@0.5x.jpg) | [Apple Automator](MacOSX_Automator) |
-| ![espanso](images/espanso@0.5x.jpg) | [Espanso](espanso) |
+| ![espanso](images/espanso@0.5x@0.5x.jpg) | [Espanso](espanso) |
 | ![cron jobs](images/1_ukNvgqV-HTHTebPHZMFNgg@0.5x.jpg) | [Cron jobs](Cron_jobs) |
 | ![Apple Shortcuts](images/logo_shortcuts@0.5x.jpg) | [Apple Shortcuts](https://github.com/imhicihu/shortcuts) |
 | ![vimium](images/vimium@0.5x.jpg) | [Vimium C](Vimium-C) |
