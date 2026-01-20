@@ -6,7 +6,7 @@
 ![internaluse-green](images/internal_use_-stable-green.svg)
 ![issues-open](images/issues-open-green.svg)
 
-This repository contains a collection of tools and resources for automating various tasks and workflows, including security, productivity, and household management. The project aims to provide a centralized platform for managing and integrating these automation tools.
+This repository contains a collection of tools and resources for automating various tasks and workflows, including security, productivity, and household management. The project aims to provide a centralized platform for managing and integrating these automation tools
 
 ### Main Function Points
 Provides a collection of automation tools and resources, such as Keyboard Maestro, Automator, and Espanso
@@ -27,4 +27,4 @@ The project utilizes a variety of automation tools and technologies, including:
 * [vimium-C](https://github.com/gdh1995/vimium-c)
 
 ### License
-The project is licensed under the MIT License, which allows for free use, modification, and distribution of the code.
+The project is licensed under the MIT License, which allows for free use, modification, and distribution of the code
