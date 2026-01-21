@@ -30,7 +30,7 @@ The project utilizes a variety of automation tools and technologies, including:
 | ![vimium](images/vimium@0.5x.jpg) | [Vimium C](Vimium-C) |
 | ![UTM](images/utm@0.5x.jpg) | [UTM](Virtualization/utm_first_steps_installation.md) |
 | ![dot files](images/dot_files@0.5x.jpg) | [.dot files](https://github.com/imhicihu/dotfiles) |
-| ![automatic updates](images/hosts@0.5x.jpg) | [automatic updates](automatic_updates.md) |
+| ![automatic updates](images/hosts.jpg) | [automatic updates](automatic_updates.md) |
 
 
 ### License
