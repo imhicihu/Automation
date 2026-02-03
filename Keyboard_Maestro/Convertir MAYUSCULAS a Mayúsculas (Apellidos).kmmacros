@@ -15,16 +15,97 @@
 				<key>Actions</key>
 				<array>
 					<dict>
-						<key>Action</key>
-						<string>DisplayBriefly</string>
+						<key>ActionColor</key>
+						<string>Red</string>
 						<key>ActionUID</key>
-						<integer>99876775</integer>
-						<key>IsActive</key>
+						<integer>99881377</integer>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC49AgAAKwAAAAEA
+						AAA1AgAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyODIy
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcZnMzMFxm
+						c21pbGxpMTUzNjQgXGNmMiAxXCc5
+						NyBQb3NpY2lvbmFyc2UgZW4gbGEg
+						cHJpbWVyYSBsZXRyYSBkZWwgYXBl
+						bGxpZG8uXAoxXCc5NyBMYW56YXIg
+						RGV2VG95cyAoLT4gaHR0cHM6Ly9k
+						ZXZ0b3lzLmFwcC9kb3dubG9hZCkg
+						eSBlbGVnaXIgLT4gVGV4dCBpbnNw
+						ZWN0b3IsIHRoZW4gY2xpY2sgaW4g
+						SW5wdXQgKCBwcm9tcHQgYmxpbmtp
+						bmcgfQEAAAAjAAAAAQAAAAcAAABU
+						WFQucnRmEAAAABVOgmm2AQAAAAAA
+						AAAAAAA=
+						</data>
+						<key>Title</key>
+						<string>Requisitos:</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Orange</string>
+						<key>ActionUID</key>
+						<integer>99880197</integer>
+						<key>KeyCode</key>
+						<integer>124</integer>
+						<key>MacroActionType</key>
+						<string>SimulateKeystroke</string>
+						<key>Modifiers</key>
+						<integer>199168</integer>
+						<key>ReleaseAll</key>
+						<false/>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Orange</string>
+						<key>ActionUID</key>
+						<integer>99880196</integer>
+						<key>Argument</key>
+						<string>0.1</string>
+						<key>Command</key>
+						<string>WaitForComplete</string>
+						<key>MacroActionType</key>
+						<string>SafariControl</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>WebBrowser</key>
+						<string>Google Chrome</string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>Copy</string>
+						<key>ActionColor</key>
+						<string>Orange</string>
+						<key>ActionUID</key>
+						<integer>99880194</integer>
+						<key>IsDisclosed</key>
 						<false/>
 						<key>MacroActionType</key>
-						<string>InsertText</string>
-						<key>Text</key>
-						<string>Previamente copiar el texto (Command + c) ya seleccionado</string>
+						<string>CutCopyPaste</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>ActionUID</key>
@@ -731,7 +812,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-GenericApplication-/Applications/coding/DevToys.app</string>
 				<key>ModificationDate</key>
-				<real>789064569.37612605</real>
+				<real>791840148.69116104</real>
 				<key>Name</key>
 				<string>Convertir MAYUSCULAS a Mayúsculas (Apellidos)</string>
 				<key>Triggers</key>
@@ -740,11 +821,11 @@
 						<key>FireType</key>
 						<string>Pressed</string>
 						<key>KeyCode</key>
-						<integer>20</integer>
+						<integer>21</integer>
 						<key>MacroTriggerType</key>
 						<string>HotKey</string>
 						<key>Modifiers</key>
-						<integer>6912</integer>
+						<integer>256</integer>
 					</dict>
 				</array>
 				<key>UID</key>
