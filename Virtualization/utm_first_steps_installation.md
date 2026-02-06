@@ -1,5 +1,5 @@
 ### Checklist
-* Launch UTM
+* Launch [UTM](https://mac.getutm.app/)
 * click `Create a New virtual Machine`
 * click `Virtualize`
 * click `MacOSX 12`
