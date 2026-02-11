@@ -1,15 +1,3 @@
 ### Checklist
-* Launch [UTM](https://mac.getutm.app/)
-* click `Create a New virtual Machine`
-* click `Virtualize`
-* click `MacOSX 12`
-* click `4096 MiB`
-* click `Default`
-* Click `Continue`
-* Click `Browse`
-* Click `Open`
-* Click `64`
-* Click `Continue`
-* Write `macOS Sequoia 15.6`
-* Click `Save`
-* Click `Ok`
+
+[![](https://mermaid.ink/img/pako:eNp1kktv4jAUhf-KdVcgBVQnEIcsRhqSvgld0HZGoyxiJYZYTWzGtUsHxH-f4NTZ1Svb3znnXj9OUMqKQQzbRh7KmiqNntNcoG78HK2oEWWNXp6zMZpMfqDlqGx4-YaKRDGqGaJozQ7ogyttaIMyWtZcsGLc25fWkpy-LK-9ih9Zce4FiRWkLrOzP21-I-y7gNTya8dnV4sQZXzp8LXFNw6nbEtNox29sfR2lHw1LIXmwgzN3Vp85_BSycP7AO8svHfwac-EQ_cWPTgUzhx4sODxu3qPFq9GvxTv7q1oL2dFG_bXSE4Rnk9DJ1xZYeZyNvRjyMgsWg9tvRVj8GCneAWxVoZ50DLV0ssSThdLDrpmLcsh7qZVfz855OLc2fZU_JGydU4lza6GeEub925l9lX3vCmnO0XbYVcxUTGVSCM0xIsFtiEQn-AT4pBMcURmURD4i8AnxIN_EE_8iEwJ8QmeRwSHgR-SswdHWxZPyZzgizYIfTwPIw9YxbVUWf8d7a88_wd8BsMq?type=png)](https://mermaid.live/edit#pako:eNp1kktv4jAUhf-KdVcgBVQnEIcsRhqSvgld0HZGoyxiJYZYTWzGtUsHxH-f4NTZ1Svb3znnXj9OUMqKQQzbRh7KmiqNntNcoG78HK2oEWWNXp6zMZpMfqDlqGx4-YaKRDGqGaJozQ7ogyttaIMyWtZcsGLc25fWkpy-LK-9ih9Zce4FiRWkLrOzP21-I-y7gNTya8dnV4sQZXzp8LXFNw6nbEtNox29sfR2lHw1LIXmwgzN3Vp85_BSycP7AO8svHfwac-EQ_cWPTgUzhx4sODxu3qPFq9GvxTv7q1oL2dFG_bXSE4Rnk9DJ1xZYeZyNvRjyMgsWg9tvRVj8GCneAWxVoZ50DLV0ssSThdLDrpmLcsh7qZVfz855OLc2fZU_JGydU4lza6GeEub925l9lX3vCmnO0XbYVcxUTGVSCM0xIsFtiEQn-AT4pBMcURmURD4i8AnxIN_EE_8iEwJ8QmeRwSHgR-SswdHWxZPyZzgizYIfTwPIw9YxbVUWf8d7a88_wd8BsMq)
