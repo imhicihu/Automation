@@ -13,8 +13,6 @@ This repository contains a collection of tools and resources for automating vari
 ### Main Function Points
 Provides a collection of automation tools and resources, such as Keyboard Maestro, Automator, and Espanso
 Offers guidance and documentation for setting up and using these automation tools
-Includes integrations and configurations for various automation workflows
-Covers topics related to security, coding conventions, and project management
 
 ### Technology Stack
 The project utilizes a variety of automation tools and technologies, including:
