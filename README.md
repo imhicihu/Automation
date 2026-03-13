@@ -32,7 +32,7 @@ The project utilizes a variety of automation tools and technologies, including:
 | ![automatic updates](images/hosts.jpg) | [automatic updates](automatic_updates.md) |
 | ![GitHub_gist](images/Octicons-gist.svg@0.5x.jpg) | [GitHub gist](https://gist.github.com/imhicihu) |
 | ![keychron automated macros](images/keychron.jpg) | [Keychron-Q11 macros](Keychron-Q11-ISO) |
-| ![tweakcdn](images/keychron.jpg) | [Tweakcdn color customization](tweakcdn) |
+| ![tweakcdn](images/tweakcn_icon@0.5x.png) | [Tweakcdn color customization](tweakcdn) |
 
 
 
