@@ -8,6 +8,8 @@
 ![internaluse-green](images/internal_use_-stable-green.svg)
 ![issues-open](images/issues-open-green.svg)
 
+# Fundamento / [Rationale](README.md)
+
 Este repositorio contiene una colección de herramientas y recursos para automatizar diversas tareas y flujos de trabajo, sea seguridad, productividad y gestión de activos digitales. Este repositorio tiene como objetivo proporcionar una plataforma centralizada para gestionar e integrar estas herramientas de automatización y compartidas con la comunidad.
 
 ### Principales funciones
