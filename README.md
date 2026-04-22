@@ -8,6 +8,8 @@
 ![internaluse-green](images/internal_use_-stable-green.svg)
 ![issues-open](images/issues-open-green.svg)
 
+# Rationale 
+
 This repository contains a collection of tools and resources for automating various tasks and workflows, including security, productivity, and household management. The project aims to provide a centralized platform for managing and integrating these automation tools
 
 ### Main Function Points
