@@ -28,10 +28,11 @@ El proyecto utiliza una variedad de herramientas y tecnologías de automatizaci�
 | ![vimium](images/vimium@0.5x.jpg) | [Vimium C](Vimium-C) |
 | ![Keyboard Maestro](images/maestro@0.5x.jpg) | [Keyboard Maestro](Keyboard_Maestro) |
 | ![UTM](images/utm@0.5x.jpg) | [UTM](Virtualization/utm_first_steps_installation.md) |
-| ![archivos dot](images/dot_files@0.5x.jpg) | [archivos .dot](https://github.com/imhicihu/dotfiles) |
-| ![actualizaciones automáticas](images/hosts.jpg) | [actualizaciones automáticas](automatic_updates.md) |
+| ![dot files](images/dot_files@0.5x.jpg) | [.dot files](https://github.com/imhicihu/dotfiles) |
+| ![automatic updates](images/hosts.jpg) | [automatic updates](automatic_updates.md) |
 | ![GitHub_gist](images/Octicons-gist.svg@0.5x.jpg) | [GitHub gist](https://gist.github.com/imhicihu) |
-| ![macros automatizadas de Keychron](images/keychron.jpg) | [macros Keychron-Q11](Keychron-Q11-ISO) |
+| ![keychron automated macros](images/keychron.jpg) | [Keychron-Q11 macros](Keychron-Q11-ISO) |
+| ![tweakcdn](images/tweakcn_icon@0.5x.png) | [Tweakcdn color customization](tweakcdn) |
 
 
 ### Licencia
