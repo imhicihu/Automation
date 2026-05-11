@@ -16,6 +16,11 @@
 ```
 {+KC_LGUI}{+KC_SLSH}{-KC_LGUI}
 ```
+<img width="985" height="769" alt="Screenshot 2026-05-11 at 4 44 30 PM" src="https://github.com/user-attachments/assets/0073d76e-5b38-4ff5-a797-351f2a68e1e4" />
+
+<br>
+</br>
+
 #### Paste
 ```
 {+KC_LGUI}{+KC_V}{-KC_LGUI}{-KC_V}
