@@ -19,20 +19,20 @@ El proyecto utiliza una variedad de herramientas y tecnologías de automatizaci�
 
 | Herramienta | Código |
 |:--|:--|
-| ![shell](images/shell@0.5x@0.5x.jpg) | [shell](Homebrew_NPM) |
-| ![tecla líder para Mac](images/leader_key@0.5x.jpg) | [Tecla líder para Mac](Leader_Key_for_the_mac) |
+| ![shell](images/shell@0.5x@0.5x.jpg) | [Personalización de la Terminal](Homebrew_NPM) |
+| ![tecla líder para Mac](images/leader_key@0.5x.jpg) | [Personalización del soft Leader Key](Leader_Key_for_the_mac) |
 | ![automator](images/Automator@0.5x.jpg) | [Apple Automator](MacOSX_Automator) |
-| ![espanso](images/espanso@0.5x@0.5x.jpg) | [Espanso](espanso) |
+| ![espanso](images/espanso@0.5x@0.5x.jpg) | [Personalización de Espanso](espanso) |
 | ![tareas cron](images/1_ukNvgqV-HTHTebPHZMFNgg@0.5x.jpg) | [Tareas cron](Cron_jobs) |
 | ![Atajos de Apple](images/logo_shortcuts@0.5x.jpg) | [Atajos de Apple](https://github.com/imhicihu/shortcuts) |
-| ![vimium](images/vimium@0.5x.jpg) | [Vimium C](Vimium-C) |
+| ![vimium](images/vimium@0.5x.jpg) | [Personalización de Vimium C](Vimium-C) |
 | ![Keyboard Maestro](images/maestro@0.5x.jpg) | [Keyboard Maestro](Keyboard_Maestro) |
 | ![UTM](images/utm@0.5x.jpg) | [UTM](Virtualization/utm_first_steps_installation.md) |
-| ![dot files](images/dot_files@0.5x.jpg) | [.dot files](https://github.com/imhicihu/dotfiles) |
-| ![automatic updates](images/hosts.jpg) | [automatic updates](automatic_updates.md) |
-| ![GitHub_gist](images/Octicons-gist.svg@0.5x.jpg) | [GitHub gist](https://gist.github.com/imhicihu) |
-| ![keychron automated macros](images/keychron.jpg) | [Keychron-Q11 macros](Keychron-Q11-ISO) |
-| ![tweakcdn](images/tweakcn_icon@0.5x.png) | [Tweakcdn color customization](tweakcdn) |
+| ![dot files](images/dot_files@0.5x.jpg) | [Archivos .dot](https://github.com/imhicihu/dotfiles) |
+| ![automatic updates](images/hosts.jpg) | [Actualizaciones automáticas](automatic_updates.md) |
+| ![GitHub_gist](images/Octicons-gist.svg@0.5x.jpg) | [GitHub gists](https://gist.github.com/imhicihu) |
+| ![keychron automated macros](images/keychron.jpg) | [Macros para el teclado Keychron-Q11](Keychron-Q11-ISO) |
+| ![tweakcdn](images/tweakcn_icon@0.5x.png) | [Personalización de colores de Tweakcdn](tweakcdn) |
 
 
 ### Licencia
