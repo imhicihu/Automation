@@ -324,7 +324,7 @@
 						<key>TargetingType</key>
 						<string>Front</string>
 						<key>Text</key>
-						<string>github.com/imhicihu</string>
+						<string>https://github.com/imhicihu</string>
 					</dict>
 				</array>
 				<key>CreationDate</key>
@@ -944,7 +944,7 @@
 				AAAD3AAAwGw=
 				</data>
 				<key>ModificationDate</key>
-				<real>792508251.39100003</real>
+				<real>801506665.56319904</real>
 				<key>Name</key>
 				<string>github IMHICIHU</string>
 				<key>Triggers</key>
@@ -955,7 +955,7 @@
 						<key>SimulateDeletes</key>
 						<true/>
 						<key>TypedString</key>
-						<string>:gi</string>
+						<string>..g</string>
 					</dict>
 				</array>
 				<key>UID</key>
