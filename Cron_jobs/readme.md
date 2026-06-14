@@ -1,1 +1,1 @@
-![issues-open](images/code-shot.png)
+![issues-open](/images/code-shot.png)
