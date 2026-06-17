@@ -10,11 +10,11 @@
 
 # Motivación / [Rationale](README.md)
 
-Este repositorio contiene una colección de herramientas y recursos para automatizar diversas tareas y flujos de trabajo, sea seguridad, productividad y gestión de activos digitales. Este repositorio tiene como objetivo proporcionar una plataforma centralizada para gestionar e integrar estas herramientas de automatización y compartidas con la comunidad.
+Este repositorio contiene una colección de herramientas y recursos para automatizar diversas tareas y flujos de trabajo, sea seguridad, productividad y gestión de activos digitales. Este repositorio tiene como objetivo proporcionar una plataforma centralizada para gestionar e integrar estas herramientas de automatización y compartidas con la comunidad
 
 ### Principales funciones
 
-Proporciona una colección de herramientas y recursos de automatización, utilizando diversos programas como Keyboard Maestro, Automator y Espanso.
+Proporciona una colección de herramientas y recursos de automatización, utilizando diversos programas como [Keyboard Maestro](https://www.keyboardmaestro.com/main/), [Automator](https://support.apple.com/en-bn/guide/automator/welcome/mac) y [Espanso](https://espanso.org/)
 El proyecto utiliza una variedad de herramientas y tecnologías de automatización, entre las que se incluyen:
 
 | Herramienta | Código |
