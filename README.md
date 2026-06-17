@@ -13,8 +13,8 @@
 This repository contains a collection of tools and resources for automating various tasks and workflows, including security, productivity, and household management. The project aims to provide a centralized platform for managing and integrating these automation tools
 
 ### Main Function Points
-Provides a collection of automation tools and resources, such as [Keyboard Maestro](https://www.keyboardmaestro.com/main/), [Automator](https://support.apple.com/en-bn/guide/automator/welcome/mac) and [Espanso](https://espanso.org/)
-Offers guidance and documentation for setting up and using these automation tools
+
+Provides a collection of automation tools and resources, such as [Keyboard Maestro](https://www.keyboardmaestro.com/main/), [Automator](https://support.apple.com/en-bn/guide/automator/welcome/mac) and [Espanso](https://espanso.org/) which offers guidance and documentation for setting up and using these automation tools
 
 ### Technology Stack
 The project utilizes a variety of automation tools and technologies, including:
@@ -35,6 +35,7 @@ The project utilizes a variety of automation tools and technologies, including:
 | ![GitHub_gist](images/Octicons-gist.svg@0.5x.jpg) | [GitHub gist](https://gist.github.com/imhicihu) |
 | ![keychron automated macros](images/keychron.jpg) | [Keychron-Q11 macros](Keychron-Q11-ISO) |
 | ![tweakcdn](images/tweakcn_icon@0.5x.png) | [Tweakcdn color customization](tweakcdn) |
+| ![Script_Editor](images/script_editor.png) | [Script Editor](Script_Editor) |
 
 
 
