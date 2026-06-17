@@ -33,8 +33,8 @@ El proyecto utiliza una variedad de herramientas y tecnologías de automatizaci�
 | ![GitHub_gist](images/Octicons-gist.svg@0.5x.jpg) | [GitHub gists](https://gist.github.com/imhicihu) |
 | ![keychron automated macros](images/keychron.jpg) | [Macros para el teclado Keychron-Q11](Keychron-Q11-ISO) |
 | ![tweakcdn](images/tweakcn_icon@0.5x.png) | [Personalización de colores de Tweakcdn](tweakcdn) |
-
+| ![Script_Editor](images/script_editor.png) | [Script Editor](Script_Editor) |
 
 ### Licencia
 
-El proyecto está licenciado bajo una licencia ![](images/MIT-license-green.png), que permite el uso, la modificación y la distribución gratuitos del código.
+El proyecto está licenciado bajo una licencia ![](images/MIT-license-green.png), que permite el uso, la modificación y la distribución gratuitos del código
