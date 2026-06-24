@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/DTirB7snQeugyrx-wmJWIQ.webp?raw=true" alt="Logotipo de Automation"/>
+  <img src="images/header.png?raw=true" alt="Logotipo de Automation"/>
 </p>
 
 ---
