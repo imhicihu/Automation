@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/DTirB7snQeugyrx-wmJWIQ.webp?raw=true" alt="Logotipo de Automation"/>
+  <img src="images/header.png?raw=true" alt="Logotipo de Automation"/>
 </p>
 
 ---
@@ -34,6 +34,11 @@ El proyecto utiliza una variedad de herramientas y tecnologías de automatizaci�
 | ![keychron automated macros](images/keychron.jpg) | [Macros para el teclado Keychron-Q11](Keychron-Q11-ISO) |
 | ![tweakcdn](images/tweakcn_icon@0.5x.png) | [Personalización de colores de Tweakcdn](tweakcdn) |
 | ![Script_Editor](images/script_editor.png) | [Script Editor](Script_Editor) |
+
+### Proyectos relacionados
+
+* [Shortcuts](https://github.com/imhicihu/shortcuts)
+* [Accesibilidad](https://github.com/imhicihu/Accesibilidad)
 
 ### Licencia
 
