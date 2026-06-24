@@ -45,8 +45,3 @@ The project utilizes a variety of automation tools and technologies, including:
 
 ### License
 The project is licensed under the ![](images/MIT-license-green.png), which allows for free use, modification and distribution of the code
-
----
-> [!NOTE]
-> This accesibility tools works only in the MacOSX environment
-
