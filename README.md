@@ -38,6 +38,15 @@ The project utilizes a variety of automation tools and technologies, including:
 | ![Script_Editor](images/script_editor.png) | [Script Editor](Script_Editor) |
 
 
+### Linked projects
+
+* [Shortcuts](https://github.com/imhicihu/shortcuts)
+* [Accesibilidad](https://github.com/imhicihu/Accesibilidad)
 
 ### License
 The project is licensed under the ![](images/MIT-license-green.png), which allows for free use, modification and distribution of the code
+
+---
+> [!NOTE]
+> This accesibility tools works only in the MacOSX environment
+
