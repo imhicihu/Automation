@@ -1,0 +1,1 @@
+{"recipe_format_version":"9.1","sortOrder":"default","transformers":[{"id":"transformer_19F814A3D60","properties":{"conversionType":null,"regexFindText":[{"string":"\\s+"}],"regexReplaceText":[{"string":"_"}]},"transformScope":"filename","type":"regularexpression"}]}
