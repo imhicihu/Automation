@@ -36,6 +36,7 @@ The project utilizes a variety of automation tools and technologies, including:
 | ![keychron automated macros](images/keychron.jpg) | [Keychron-Q11 macros](Keychron-Q11-ISO) |
 | ![tweakcdn](images/tweakcn_icon@0.5x.png) | [Tweakcdn color customization](tweakcdn) |
 | ![Script_Editor](images/script_editor.png) | [Script Editor](Script_Editor) |
+| ![Transnomino](images/transnomino-icon.png) | [Transnomino File renamer automation](Transnomino) |
 
 
 ### Linked projects
