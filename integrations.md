@@ -9,4 +9,4 @@
 | [Github](https://github.com)  | to [Expo](https://expo.dev)  |
 | [Harper](https://writewithharper.com/)  | to [TextEdit](https://en.wikipedia.org/wiki/TextEdit)  |
 | [Harper](https://writewithharper.com/)  | to [VSCode](https://code.visualstudio.com/)  |
-
+| [Harper](https://writewithharper.com/)  | to [Google Chrome](https://www.google.com/chrome/)  |
