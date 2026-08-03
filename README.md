@@ -17,7 +17,7 @@ This repository contains a collection of tools and resources for automating vari
 Provides a collection of automation tools and resources, such as [Keyboard Maestro](https://www.keyboardmaestro.com/main/), [Automator](https://support.apple.com/en-bn/guide/automator/welcome/mac) and [Espanso](https://espanso.org/) which offers guidance and documentation for setting up and using these automation tools
 
 ### Technology Stack
-The project utilizes a variety of automation tools and technologies, including:
+The project utilizes a plethora of automation tools and technologies including:
 
 | Tool | Code |
 |:--|:--|
