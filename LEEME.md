@@ -42,4 +42,4 @@ El proyecto utiliza una variedad de herramientas y tecnologías de automatizaci�
 
 ### Licencia
 
-El proyecto está licenciado bajo una licencia ![](images/MIT-license-green.png), que permite el uso, la modificación y la distribución gratuitos del código
+El proyecto está licenciado bajo una licencia ![](images/MIT-license-green.png), que permite uso, modificación y distribución libre del código
