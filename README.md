@@ -8,7 +8,7 @@
 ![internaluse-green](images/internal_use_-stable-green.svg)
 ![issues-open](images/issues-open-green.svg)
 
-# Rationale / [Fundamento](LEEME.md)
+## Rationale / [Fundamento](LEEME.md)
 
 This repository contains a collection of tools and resources for automating various tasks and workflows, including security, productivity, and household management. The project aims to provide a centralized platform for managing and integrating these automation tools
 
@@ -43,6 +43,27 @@ The project utilizes a plethora of automation tools and technologies including:
 
 * [Shortcuts](https://github.com/imhicihu/shortcuts)
 * [Accesibilidad](https://github.com/imhicihu/Accesibilidad)
+
+### Issues
+
+* Check them on [here](https://github.com/imhicihu/Automation/issues)
+
+### Changelog
+
+* Please check the [Commits](https://github.com/imhicihu/Automation/commits/master) section for the current status
+
+### Who do I talk to?
+
+* Repo owner or admin
+	 - Contact `imhicihu` at `gmail` dot `com`
+
+### Code of Conduct
+
+* Please, check our [Code of Conduct](code_of_conduct.md)
+
+### Legal
+
+* All trademarks are the property of their respective owners
 
 ### License
 The project is licensed under the ![](images/MIT-license-green.png), which allows for free use, modification and distribution of the code
