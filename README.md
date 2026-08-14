@@ -35,7 +35,7 @@ The project utilizes a plethora of automation tools and technologies including:
 | ![GitHub_gist](images/Octicons-gist.svg@0.5x.jpg) | [GitHub gist](https://gist.github.com/imhicihu) |
 | ![keychron automated macros](images/keychron.jpg) | [Keychron-Q11 macros](Keychron-Q11-ISO) |
 | ![tweakcdn](images/tweakcn_icon@0.5x.png) | [Tweakcdn color customization](tweakcdn) |
-| ![Script_Editor](images/script_editor.png) | [Script Editor](Script_Editor) |
+| ![Script_Editor](images/script_editor.png) | [Script Editor](Script_Editor/ScripEditor.md) |
 | ![Transnomino](images/transnomino-icon.png) | [Transnomino File renamer automation](Transnomino) |
 
 
