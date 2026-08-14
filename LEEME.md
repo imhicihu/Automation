@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="images/header.png?raw=true" alt="Logotipo de Automation"/>
+  <img src="images/header.png?raw=true" alt="Logotipo de Automation" weigh="280" height="280"/>
 </p>
+
 
 ---
 
@@ -8,7 +9,7 @@
 ![internaluse-green](images/internal_use_-stable-green.svg)
 ![issues-open](images/issues-open-green.svg)
 
-# Motivación / [Rationale](README.md)
+## Motivación / [Rationale](README.md)
 
 Este repositorio contiene una colección de herramientas y recursos para automatizar diversas tareas y flujos de trabajo, sea seguridad, productividad y gestión de activos digitales. Este repositorio tiene como objetivo proporcionar una plataforma centralizada para gestionar e integrar estas herramientas de automatización y compartidas con la comunidad
 
@@ -33,7 +34,8 @@ El proyecto utiliza una variedad de herramientas y tecnologías de automatizaci�
 | ![GitHub_gist](images/Octicons-gist.svg@0.5x.jpg) | [GitHub gists](https://gist.github.com/imhicihu) |
 | ![keychron automated macros](images/keychron.jpg) | [Macros para el teclado Keychron-Q11](Keychron-Q11-ISO) |
 | ![tweakcdn](images/tweakcn_icon@0.5x.png) | [Personalización de colores de Tweakcdn](tweakcdn) |
-| ![Script_Editor](images/script_editor.png) | [Script Editor](Script_Editor) |
+| ![Script_Editor](images/script_editor.png) | [Script Editor](Script_Editor/ScripEditor.md) |
+| ![Transnomino](images/transnomino-icon.png) | [Transnomino File renamer automation](Transnomino) |
 
 ### Proyectos relacionados
 
