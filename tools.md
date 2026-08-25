@@ -19,3 +19,6 @@
  
 ### Insights
 * https://www.wired.com/story/soghoian-automation/
+
+### Webpage screenshot
+* [Siteshot](https://www.site-shot.com/)
