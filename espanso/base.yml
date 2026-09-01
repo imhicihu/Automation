@@ -25,6 +25,15 @@ matches:
         params:
           format: "%m/%d/%Y"
 
+  # Print the output of a shell command
+#   - trigger: ":shell"
+#     replace: "{{output}}"
+#     vars:
+#       - name: output
+#         type: shell
+#         params:
+#           cmd: "echo 'Hello from your shell'"
+
   # Print the current timestamp with date included
   - trigger: ":time"
     replace: "{{time}}"
@@ -41,14 +50,14 @@ matches:
       - name: time
         type: date
         params:
-         format: "Updated on %d/%m/%Y, %H:%M:%S"
+         format: "Updated on %d/%m/%Y at %H:%M:%S"
 
   # Overcome IMHICIHU
   - trigger: ":ic"
     label: "IMHICIHU"
     replace: >-
       IMHICIHU-CONICET
-      
+
   # Overcome IMHICIHU's email
   - trigger: ":im"
     label: "IMHICIHU@gmail.com"
