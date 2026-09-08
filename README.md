@@ -10,11 +10,11 @@
 
 ## Rationale / [Fundamento](LEEME.md)
 
-This repository contains a collection of tools and resources for automating various tasks and workflows, including security, productivity, and household management. The project aims to provide a centralized platform for managing and integrating these automation tools
+* This repository contains a collection of tools and resources for automating various tasks and workflows, including security, productivity, and household management. The project aims to provide a centralized platform for managing and integrating these automation tools
 
 ### Main Function Points
 
-Provides a collection of automation tools and resources, such as [Keyboard Maestro](https://www.keyboardmaestro.com/main/), [Automator](https://support.apple.com/en-bn/guide/automator/welcome/mac) and [Espanso](https://espanso.org/) which offers guidance and documentation for setting up and using these automation tools
+* Provides a collection of automation tools and resources, such as [Keyboard Maestro](https://www.keyboardmaestro.com/main/), [Automator](https://support.apple.com/en-bn/guide/automator/welcome/mac) and [Espanso](https://espanso.org/) which offers guidance and documentation for setting up and using these automation tools
 
 ### Technology Stack
 The project utilizes a plethora of automation tools and technologies including:
