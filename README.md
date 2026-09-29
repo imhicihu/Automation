@@ -43,6 +43,7 @@ The project utilizes a plethora of automation tools and technologies including:
 
 * [Shortcuts](https://github.com/imhicihu/shortcuts)
 * [Accesibilidad](https://github.com/imhicihu/Accesibilidad)
+* [dotfiles](https://github.com/imhicihu/dotfiles/)
 
 ### Issues
 
